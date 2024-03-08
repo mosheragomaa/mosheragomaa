@@ -2,7 +2,7 @@
 <h3> An artificial intelligence student interested in NLP.</h3>
 
 
-<p align="left"> <img src="https://media.tenor.com/29A6BwrbH8wAAAAi/appear-hi.gif" height = 70> </p>
+<p align="left"> <img src="https://media.tenor.com/zf4ZNomT0mkAAAAi/animal-kitty.gif" height = 170> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosheragomaa&label=Profile%20views&color=0e75b6&style=flat" alt="mosheragomaa" /> </p>
